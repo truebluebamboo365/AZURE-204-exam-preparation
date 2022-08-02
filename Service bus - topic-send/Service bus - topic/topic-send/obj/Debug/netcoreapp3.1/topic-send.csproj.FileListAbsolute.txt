@@ -1,0 +1,73 @@
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.exe
+C:\Work\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.csprojAssemblyReference.cache
+C:\Work\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.AssemblyInfoInputs.cache
+C:\Work\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.AssemblyInfo.cs
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.deps.json
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.runtimeconfig.json
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.runtimeconfig.dev.json
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.dll
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.pdb
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Work\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.csproj.CoreCompileInputs.cache
+C:\Work\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.csproj.CopyComplete
+C:\Work\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.dll
+C:\Work\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.pdb
+C:\Work\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.genruntimeconfig.cache
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.exe
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.deps.json
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.runtimeconfig.json
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.runtimeconfig.dev.json
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.pdb
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.csprojAssemblyReference.cache
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.csproj.CoreCompileInputs.cache
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.AssemblyInfoInputs.cache
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.AssemblyInfo.cs
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.csproj.CopyComplete
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.pdb
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.genruntimeconfig.cache
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.exe
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.deps.json
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.runtimeconfig.json
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.runtimeconfig.dev.json
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\topic-send.pdb
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.csproj.AssemblyReference.cache
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.AssemblyInfoInputs.cache
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.AssemblyInfo.cs
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.csproj.CoreCompileInputs.cache
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.csproj.CopyComplete
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.pdb
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-send\Service bus - topic\topic-send\obj\Debug\netcoreapp3.1\topic-send.genruntimeconfig.cache

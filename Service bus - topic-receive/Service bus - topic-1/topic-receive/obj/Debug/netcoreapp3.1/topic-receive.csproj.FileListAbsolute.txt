@@ -1,0 +1,97 @@
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.exe
+C:\Work\whizlab\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.AssemblyInfoInputs.cache
+C:\Work\whizlab\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.AssemblyInfo.cs
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.deps.json
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.runtimeconfig.json
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.runtimeconfig.dev.json
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.pdb
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csprojAssemblyReference.cache
+C:\Work\whizlab\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csproj.CoreCompileInputs.cache
+C:\Work\whizlab\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csproj.CopyComplete
+C:\Work\whizlab\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.dll
+C:\Work\whizlab\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.pdb
+C:\Work\whizlab\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.genruntimeconfig.cache
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.exe
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.deps.json
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.runtimeconfig.json
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.runtimeconfig.dev.json
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.pdb
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csprojAssemblyReference.cache
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csproj.CoreCompileInputs.cache
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.AssemblyInfoInputs.cache
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.AssemblyInfo.cs
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csproj.CopyComplete
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.dll
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.pdb
+C:\Work\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.genruntimeconfig.cache
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.exe
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.deps.json
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.runtimeconfig.json
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.runtimeconfig.dev.json
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.pdb
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csprojAssemblyReference.cache
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csproj.CoreCompileInputs.cache
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.AssemblyInfoInputs.cache
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.AssemblyInfo.cs
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csproj.CopyComplete
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.dll
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.pdb
+C:\whizlab_2020\AZ-204\whizlab\Service bus - topic-filter-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.genruntimeconfig.cache
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.exe
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.deps.json
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.runtimeconfig.json
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.runtimeconfig.dev.json
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\topic-receive.pdb
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csproj.AssemblyReference.cache
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.AssemblyInfoInputs.cache
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.AssemblyInfo.cs
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csproj.CoreCompileInputs.cache
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.csproj.CopyComplete
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.dll
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.pdb
+C:\Users\QuyenNguyen\Downloads\Learning\AZURE 204\Service bus - topic-receive\Service bus - topic-1\topic-receive\obj\Debug\netcoreapp3.1\topic-receive.genruntimeconfig.cache
